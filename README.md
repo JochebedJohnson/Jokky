@@ -1,2 +1,2 @@
 # Jokky
-Johnson Jochebed from Nigeria and an ALX student
+I'm now an ALX student, this is my first repository as a full-stack engineer
